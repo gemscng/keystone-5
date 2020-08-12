@@ -1,5 +1,14 @@
 # @keystonejs/fields-location-google
 
+## 1.0.1
+
+### Patch Changes
+
+- [`b300720e`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160) [#3373](https://github.com/keystonejs/keystone/pull/3373) Thanks [@timleslie](https://github.com/timleslie)! - Removed internal global variables.
+
+- Updated dependencies [[`9338f373`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25), [`3db2f395`](https://github.com/keystonejs/keystone/commit/3db2f395688342fe9a1dda14be5ce8308c9c39a6), [`7b087572`](https://github.com/keystonejs/keystone/commit/7b0875723783780988f2dee4e5ee406a3b44ca98), [`7422922f`](https://github.com/keystonejs/keystone/commit/7422922f5649a2b52699f67a77645e9c91800688), [`1b3943e4`](https://github.com/keystonejs/keystone/commit/1b3943e4f66c61c446085736949c6b83e9087afb), [`b300720e`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160)]:
+  - @keystonejs/fields@16.1.0
+
 ## 1.0.0
 
 ### Major Changes
